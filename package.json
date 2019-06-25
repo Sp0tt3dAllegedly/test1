@@ -1,0 +1,25 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "JSON - 'JavaScript Object Notation'",
+  "main": "index.js",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sp0tt3dAllegedly/test1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sp0tt3dAllegedly/test1/issues"
+  },
+  "homepage": "https://github.com/Sp0tt3dAllegedly/test1#readme"
+}
